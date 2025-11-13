@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #f7fafc, #edf2f7 45%, #e2e8f0);
+  color: #1f2933;
+  font-family: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-display), var(--font-geist-sans), sans-serif;
+}
+
+.font-arabic {
+  font-family: var(--font-arabic), "Scheherazade", serif;
+}
